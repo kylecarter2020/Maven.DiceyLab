@@ -21,4 +21,5 @@ public class SimulationTest {
         Assert.assertEquals(numberOfDice, actualNumberOfDice);
         Assert.assertEquals(numberOfThrows, actualNumberOfThrows);
     }
+
 }
